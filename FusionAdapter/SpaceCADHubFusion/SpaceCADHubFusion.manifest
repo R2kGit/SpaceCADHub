@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "8b0e51cb-e561-4b4d-92f5-b498772a209a",
+  "author": "Benjamin Preuß",
+  "description": {"": "SpaceCADHub: SpaceController-Bewegung, Ringzoom und Tasten in Fusion."},
+  "version": "1.0.3",
+  "runOnStartup": true,
+  "supportedOS": "windows",
+  "editEnabled": true
+}
